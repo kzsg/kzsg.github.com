@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[kzsg]]></title>
   <link href="http://kzsg.github.com/atom.xml" rel="self"/>
   <link href="http://kzsg.github.com/"/>
-  <updated>2012-04-06T15:58:42+09:00</updated>
+  <updated>2012-04-06T16:09:34+09:00</updated>
   <id>http://kzsg.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[kzsg]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
