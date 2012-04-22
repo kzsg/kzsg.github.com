@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[kzsg.jp]]></title>
-  <link href="http://kzsg.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: android | kzsg.jp]]></title>
+  <link href="http://kzsg.github.com/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://kzsg.github.com/"/>
   <updated>2012-04-22T13:44:09+09:00</updated>
   <id>http://kzsg.github.com/</id>
